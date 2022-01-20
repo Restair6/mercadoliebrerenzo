@@ -245,7 +245,7 @@ article div.main-article{
 
 }
 
-.icon-footer i:hover {
+#icon-footer i:hover {
     color: #1aeba5;
 }
 footer{
@@ -259,7 +259,7 @@ footer{
     justify-content: space-between;
     margin-top: 30px;
 }
-footer .icono-footer {
+footer .icon-footer {
     margin-bottom: 15px;
     width: 100%;
     text-align: center;
